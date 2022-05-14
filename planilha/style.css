@@ -1,0 +1,45 @@
+table{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    border-color: thistle;
+    color: white;
+    border-spacing: 8px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+ 
+button{
+   background-image: url(img/galaxy.jpg);
+    border-color: thistle;
+    height: 20px;
+    width: 150px;
+    margin-top: 40px;
+    color: white;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    background-color: thistle;
+}
+
+input{
+    background-image: url(img/galaxy.jpg);
+    border-color: thistle;
+    height: 20px;
+    width: 150px;
+    color: white;
+}
+
+td input{
+    width: 300px;
+}
+
+td{
+    width: 300px;
+}
